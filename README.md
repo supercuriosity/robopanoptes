@@ -123,6 +123,12 @@ This project is built upon the following:
 
 - **LeRobot-DIY**  
   [GitHub Repository](https://github.com/yucy207/lerobot_diy)
+  
+- **Intro-Guide**  
+  [Guide](https://deepwiki.com/real-stanford/RoboPanoptes)
+
+- **Hugging_face**
+  [Enter_datacollection](https://huggingface.co/yucy207)
 
 ## 📜 License
 
