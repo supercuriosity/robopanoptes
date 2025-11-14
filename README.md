@@ -4,6 +4,7 @@ This project implements a diffusion-based visuomotor policy for whole-body robot
 
 ## 📌 Overview
 
+- ACT, Diffusion or PI-0 can be used in our robot !!!
 - ✅ Reproduced the RoboPanoptes diffusion policy using our own dataset  
 - 🎮 Collected demonstrations using LeRobot-DIY with custom robot hardware  
 - 🧠 Trained a Transformer-based diffusion policy using multi-view RGB and proprioceptive inputs  
