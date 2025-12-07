@@ -2,6 +2,8 @@
 
 This project implements a diffusion-based visuomotor policy for whole-body robotic control. Our work builds upon the [**RoboPanoptes**](https://github.com/real-stanford/robopanoptes) system to replicate and adapt their model architecture and training pipeline. Demonstration data was collected using the open-source [**LeRobot-DIY**](https://github.com/yucy207/lerobot_diy) teleoperation system.
 
+[**Deepwiki of robopanoptes**](https://deepwiki.com/supercuriosity/robopanoptes)
+
 ## 📌 Overview
 
 - ACT, Diffusion or PI-0 can be used in our robot !!!
